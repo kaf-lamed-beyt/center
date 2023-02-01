@@ -1,5 +1,5 @@
 {
-  "name": "center",
+  "name": "centre",
   "version": "1.0.0",
   "description": "Center any element or component vertically and horizontally",
   "main": "./dist/cjs/index.js",
