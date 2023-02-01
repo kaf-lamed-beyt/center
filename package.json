@@ -1,6 +1,6 @@
 {
   "name": "centa",
-  "version": "0.0.1",
+  "version": "0.0.1-alpha-1",
   "description": "A React component that helps you center any element or component vertically and horizontally",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
@@ -28,7 +28,10 @@
   "devDependencies": {
     "@types/node-sass": "^4.11.3",
     "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
     "@types/sass": "^1.43.1",
+    "centa": "^0.0.1",
+    "parcel": "^2.8.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "typescript": "^4.9.5"

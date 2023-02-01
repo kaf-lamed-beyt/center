@@ -1,12 +1,20 @@
-# centre
+# centa
 
 "CSS is hard". We all know how it can make a lot of developers go **Bonkers** 😩, especially Backend Developers!
 
-This repo is a simple implementation of one, out of the many reasons why a lot of Devs lament over CSS, "Centering a div". It is a React component that you can wrap around any element in your project, and it'll center such element(s), vertically and horizontally on the page or current viewport.
+This repo is a simple implementation of one, out of the many reasons why a lot of Devs lament over CSS &mdash; "Centering a div".
+
+It is a React component that you can wrap around any element in your project, and it'll center such element(s), vertically and horizontally on the page or current viewport.
 
 ## Usage
 
-To use this package, install it from [npm](https://npmjs.com/package/centre), and import it anywhere in your project.
+To use this package, install it from [npm](https://npmjs.com/package/centre)
+
+```bash
+npm install centa
+```
+
+...and import it anywhere in your project.
 
 ```jsx
 import React from "react";

@@ -1,0 +1,19 @@
+{
+  "name": "centa-testbed",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "dev": "parcel ./index.html"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "centa": "^0.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}

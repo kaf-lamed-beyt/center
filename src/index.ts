@@ -1,3 +1,3 @@
-import Center from "./components/center";
+require("./components/style/center.scss")
 
-export {Center}
+export * from "./components/center"
