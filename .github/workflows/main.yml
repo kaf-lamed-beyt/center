@@ -24,7 +24,7 @@ jobs:
         run: yarn build
 
       - name: Publish a new release
-        run: yarn publish
+        run: npm publish
 
         env:
           NODE_AUTH_TOKEN: ${{ secrets.CENTA_TOKEN }}
