@@ -20,7 +20,7 @@ npm install centa
 
 ```jsx
 import React from "react";
-import Center from "centa";
+import { Center } from "centa";
 
 export default function Component() {
   return (
