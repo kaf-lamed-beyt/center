@@ -9,7 +9,7 @@
   "devDependencies": {
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
-    "centa": "^0.0.1",
+    "centa": "^0.0.1-alpha-1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

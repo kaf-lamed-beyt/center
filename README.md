@@ -1,3 +1,5 @@
+[![build](https://github.com/kaf-lamed-beyt/center/actions/workflows/main.yml/badge.svg)](https://github.com/kaf-lamed-beyt/center/actions/workflows/main.yml)
+
 # centa
 
 "CSS is hard". We all know how it can make a lot of developers go **Bonkers** 😩, especially Backend Developers!
