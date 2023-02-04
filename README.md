@@ -31,7 +31,11 @@ export default function Component() {
 }
 ```
 
-When you're importing the package, make sure you spell the package name as **"centa"** not "center" or "centre". Why? You might ask. Well.... this is because there are two packages on NPM that are spelt exactly that way. So to avoid any errors when I try to publish the package, I had to change the package name to use something completely different from the British and American spelling convention.
+When you're importing the package, make sure you spell the package name as **"centa"** not "center" or "centre". 
+
+Why? You might ask. Well.... this is because there are two packages on NPM that are spelt exactly that way. 
+
+So to avoid any errors when I try to publish the package, I had to change the package name to use something completely different from the British and American spelling convention.
 
 ## Not a fan of React?
 
